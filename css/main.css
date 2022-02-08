@@ -1980,6 +1980,9 @@ html.no-csstransitions .home-content__main {
   .home-logo img {
     width: 65px;
     height: 84px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    padding-right: 13px;
   }
 
   .home-content h1 {
